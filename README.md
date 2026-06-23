@@ -23,6 +23,3 @@ Python | Pandas | Requests | SQLite | SQL | Power BI | ETL
 
 ## Contato
 Maria Luiza | Ciência de Dados 6º período | LinkedIn: https://br.linkedin.com/in/maria-luiza-ribeiro-de-araujo-57817b301
-
-Arquivo 3: Cria pasta data/ vazia e database/ vazia
-Arquivo 4: dashboard/print_dashboard.png - Sobe o print do seu Power BI aqu
