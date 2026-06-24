@@ -9,10 +9,10 @@ Python | Pandas | Requests | SQLite | SQL | Power BI | ETL
 ## Como executar
 1. pip install pandas requests
 2. python scripts/etl_guaratingueta.py
-3. Conectar database/populacao.db no Power BI
+3. Conectar data/populacao_guaratingueta.csv no Power BI
 
 4. ## Resultados
-- Evolução populacional 2000-2022
+- Evolução populacional 2001-2021
 - Taxa de crescimento anual calculada
 - Base pronta para dashboard
 
