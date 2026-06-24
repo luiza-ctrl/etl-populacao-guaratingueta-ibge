@@ -17,8 +17,7 @@ Python | Pandas | Requests | SQLite | SQL | Power BI | ETL
 - Base pronta para dashboard
 
 ## Dashboard
-![Dashboard](dashboard/print_dashboard.png)
-(ainda não foi adicionado, trabalho em progresso)
+![Dashboard](dashboard/dashboard.png)
 
 ## Contato
 Maria Luiza Ribeiro de Araujo | Ciência de Dados, 6º período | LinkedIn: https://br.linkedin.com/in/maria-luiza-ribeiro-de-araujo-57817b301
